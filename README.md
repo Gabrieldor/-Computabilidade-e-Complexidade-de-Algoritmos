@@ -15,4 +15,5 @@ Relatório e Artigo disponível em: https://docs.google.com/document/d/1mTnq1ogA
 Completude do projeto:
 
 Codigo:100%
+
 Relátorio/Artigo: 80%
