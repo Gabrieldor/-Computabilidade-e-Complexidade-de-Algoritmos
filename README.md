@@ -11,3 +11,8 @@ Código disponível em: https://colab.research.google.com/drive/10rvbgeI5Jlh1rVq
 
 Relatório e Artigo disponível em: https://docs.google.com/document/d/1mTnq1ogACxrjRb07weON3nCMcKl5rXholjl8r9QE35g/edit
 
+
+Completude do projeto:
+
+Codigo:100%
+Relátorio/Artigo: 80%
